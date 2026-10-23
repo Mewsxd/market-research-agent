@@ -1,0 +1,5 @@
+smolagents[mcp,litellm]
+gradio
+reportlab
+python-dotenv
+google-genai
